@@ -1,2 +1,2 @@
 # nowcoder-practice
-nowcode practice
+nowcoder practice
